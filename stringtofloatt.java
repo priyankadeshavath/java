@@ -1,0 +1,7 @@
+class StringToFloatExample{
+public static void main(String args[]){
+String s="23.6";
+float f=Float.parseFloat("23.6");//using parsefloat method
+System.out.println(f);
+}
+}
